@@ -1,0 +1,7 @@
+<!DOCTYPE html>
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<a href="https://imbs.rthe.net/OS.html">新大陆?</a>
+</body></html>
